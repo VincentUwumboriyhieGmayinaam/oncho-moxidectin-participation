@@ -1,5 +1,7 @@
 # Community participation in onchocerciasis mass drug administration before and after the introduction of moxidectin in Ghana: Three repeated cross-sectional surveys
 
+[![DOI](https://zenodo.org/badge/1457807168.svg)](https://doi.org/10.5281/zenodo.24222995)
+
 Analysis code for the article:
 
 > [FILL: authors]. Community participation in onchocerciasis mass drug administration before and after the introduction of moxidectin in Ghana: Three repeated cross-sectional surveys. PLOS Neglected Tropical Diseases. [FILL: year, DOI].
@@ -79,5 +81,5 @@ be requested from the corresponding author; see `data/README.md`. Communities ar
 
 ## Citation and licence
 
-Please cite the article and this repository (`CITATION.cff`). Code is released under the MIT licence. The study was
+Please cite the article and this repository (`CITATION.cff`). Version used for the submitted manuscript: v1.1.0, doi: [10.5281/zenodo.24222996](https://doi.org/10.5281/zenodo.24222996); all versions: [10.5281/zenodo.24222995](https://doi.org/10.5281/zenodo.24222995). Code is released under the MIT licence. The study was
 approved by [FILL: ethics committee and approval number].
