@@ -1,9 +1,8 @@
-# Community participation after the switch from ivermectin to moxidectin
+# Community participation in onchocerciasis mass drug administration before and after the introduction of moxidectin in Ghana: Three repeated cross-sectional surveys
 
 Analysis code for the article:
 
-> [FILL: authors]. Community participation after the switch from ivermectin to moxidectin for onchocerciasis mass
-> drug administration in Ghana: three repeated cross-sectional surveys. [FILL: journal, year, DOI].
+> [FILL: authors]. Community participation in onchocerciasis mass drug administration before and after the introduction of moxidectin in Ghana: Three repeated cross-sectional surveys. PLOS Neglected Tropical Diseases. [FILL: year, DOI].
 
 The code reproduces every number, table and figure in the article from the de-identified survey file. It does
 **not** contain any survey data (see [Data access](#data-access)).
@@ -20,6 +19,12 @@ moxidectin rounds (surveys April 2025 and February 2026). The analysis estimates
 - reasons for missing treatment, differences between communities, and characteristics of people who took part.
 
 Each round used one drug, so the code compares rounds, not drugs.
+
+## How the code is organised
+
+Each script starts with a header that explains its purpose, inputs, outputs and the methods it uses. Inside the
+scripts, every analysis step is a separate block preceded by a comment explaining the method and why it was chosen;
+blocks are separated by one blank line. Scripts are numbered in the order they run.
 
 ## Repository layout
 
